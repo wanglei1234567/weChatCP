@@ -1,4 +1,5 @@
 package com.wanglei.weChatCP.bean;
 
-public class test {
+public class Test {
+    private String a;
 }
